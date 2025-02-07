@@ -54,6 +54,17 @@ main {
     animation: marquee 10s linear infinite;
 }
 
+#credits {
+    font-size: 2em;
+    position: fixed;
+    bottom: 40vh;
+}
+
+.highlight {
+    color: white;
+    background-color: #333;
+}
+
 .card {
     min-width: 190px;
     min-height: 254px;
