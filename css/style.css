@@ -11,6 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    cursor: url('../assets/ui/cursor.png'), auto;
 }
 
 main {
